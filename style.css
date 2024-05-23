@@ -1,0 +1,15 @@
+body{
+    background-color: #000000;
+    box-sizing: border-box;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
